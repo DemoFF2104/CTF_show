@@ -1,4 +1,3 @@
-alert('Файл подключен');
 function Article(title, text) {
   this.title = title;
   this.text = text;
